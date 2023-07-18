@@ -18,14 +18,14 @@ This is a simple function plotter that can be used to plot the graphs of mathema
 * the function is evaluated at 1000 points
 
 #### screenshot for working examples.
-* ![working] (https://github.com/os2ma/Function-Plotter/blob/main/screenshot/working1.png)
-* ![working] (https://github.com/os2ma/Function-Plotter/blob/main/screenshot/working2.png)
-* ![working] (https://github.com/os2ma/Function-Plotter/blob/main/screenshot/working3.png)
+* ![working] (https://github.com/os2ma/Simple-Function-Plotter/blob/main/screenshot/working1.png)
+* ![working] (https://github.com/os2ma/Simple-Function-Plotter/blob/main/screenshot/working2.png)
+* ![working] (https://github.com/os2ma/Simple-Function-Plotter/blob/main/screenshot/working3.png)
 
 #### screenshot for wrong examples.
-* ![wrong] (https://github.com/os2ma/Function-Plotter/blob/main/screenshot/wrong1.png)
-* ![wrong] (https://github.com/os2ma/Function-Plotter/blob/main/screenshot/wrong2.png)
-* ![wrong] (https://github.com/os2ma/Function-Plotter/blob/main/screenshot/wrong3.png)
+* ![wrong] (https://github.com/os2ma/Simple-Function-Plotter/blob/main/screenshot/wrong1.png)
+* ![wrong] (https://github.com/os2ma/Simple-Function-Plotter/blob/main/screenshot/wrong2.png)
+* ![wrong] (https://github.com/os2ma/Simple-Function-Plotter/blob/main/screenshot/wrong3.png)
 
 
 
